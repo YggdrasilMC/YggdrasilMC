@@ -8,3 +8,4 @@
 - 😄 Pronouns: IT/THAT
 - ⚡ Fun fact: Bees aren't real 😕
 
+See [Yggdrasil Features](FEATURES.md)
